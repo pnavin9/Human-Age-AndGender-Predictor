@@ -36,7 +36,11 @@ This application is designed to predict the age of a person from an input image.
 
 ## Demo
 
-![human-age-predictor-google-chrome-2023-05-30-21-06-57_MSO6CCSB](https://github.com/pnavin9/Human-Age-Prediction/assets/106406724/210bef3d-ad02-4659-97a0-5f029fe26353)
+
+
+
+https://github.com/pnavin9/Human-Age-Predictor/assets/106406724/22d6fdca-5377-4713-9612-89420a7f5a89
+
 
 
 ## Performance
