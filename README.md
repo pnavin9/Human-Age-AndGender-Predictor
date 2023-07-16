@@ -1,4 +1,4 @@
-# Human Age Predictor
+# Human Age and Gender Predictor
 
 This application is designed to predict the age and gender of a person from an input image. It utilizes the ResNet-101V2 model, which has been fine-tuned on a facial dataset, to recognize and analyze the input image.
 
